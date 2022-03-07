@@ -1,0 +1,52 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: "Montserrat", sans-serif;
+  background: url(https://cdn.fs.teachablecdn.com/XWEV6S6MRIuUGKL3rOCq)
+    no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 3rem;
+}
+
+.buffer {
+  height: 10rem;
+}
+
+hr {
+  margin: 20px auto !important;
+  color: #f05f44 !important;
+  border: 3px solid #f05f44 !important;
+  max-width: 65px !important;
+  opacity: 1 !important;
+  margin-top: 11px !important;
+}
+
+.btn {
+  font-weight: 700 !important;
+  border-radius: 300px !important;
+  text-transform: uppercase;
+}
+
+.btn-primary {
+  background-color: #f05f44 !important;
+  border-color: #f05f44 !important;
+}
+
+.btn-primary:hover {
+  background-color: #ee4b08 !important;
+  border-color: #ee4b08 !important;
+  border-width: 4px !important;
+}
+
+.btn-xl {
+  padding: 1rem 2rem !important;
+}
